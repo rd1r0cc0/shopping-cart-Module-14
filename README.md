@@ -1,2 +1,2 @@
 # shopping-cart
-Shopping Cart - Lists Manipulation using React
+Shopping Cart - Lists Manipulation Using React
